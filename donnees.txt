@@ -1,0 +1,10 @@
+===== PROPRIETAIRES =====
+Nom|Prenom|DateNaissance|Adresse|Telephone|TitrePropriete|ActeNotarie|Banque|NumBanquaire|NumFiscal
+===== LOCATAIRES =====
+Nom|Prenom|DateNaissance|Adresse|Telephone|BulletinSalaire|AttestationEmploi|AvisImposition|AncienProprietaire
+===== BIENS IMMOBILIERS =====
+Reference|Type|Adresse|Superficie|Prix
+===== CONTRATS DE LOCATION =====
+NumeroContrat|DateDebut|DateFin|MontantLoyer|Caution|Conditions
+PROPRIETAIRE|uh|jhgvt|yhj|Šu,|3456|YHB|JKG|879|86890|F5YT
+PROPRIETAIRE|TFYU|YFU|TDFV|
